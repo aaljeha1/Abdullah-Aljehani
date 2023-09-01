@@ -1,0 +1,13 @@
+body{
+    background-image: url('https://get.wallhere.com/photo/1920x1080-px-astronomy-colorful-colors-cosmos-galaxies-galaxy-nature-planet-planets-sky-space-star-stars-universe-1732769.jpg');
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+} 
+
+.go{
+background-color: white;
+padding: 4px 10px;
+font-family: 'Orbitron', sans-serif;
+}

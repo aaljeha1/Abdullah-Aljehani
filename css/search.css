@@ -1,0 +1,98 @@
+body {
+    color: #bdc1c6;  
+    font-size:14px; 
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 40px
+
+    
+}
+.task1{
+    color:black;
+}
+                 
+.terms{
+    color: black;
+}
+
+.blank{
+    margin-top: 100px;
+}
+.input-search{
+    margin: auto;
+    margin-top: 20px;
+    width: 400px;
+    line-height: 24px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border: color #dfe1e5;
+    border-radius: 24px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.img_google {
+    margin-left: auto;
+    margin-right: auto;
+    width: 272px;
+    height: 92px;
+    display: block;
+    padding: 20px;
+}
+.clickme {
+     
+    display:flex;
+    justify-content: center;
+   
+ 
+    
+}
+.clickmeF{
+    margin: 11px 4px;
+    margin-left:30%;
+    margin-right:auto;
+    margin-top: 30px;
+    background-color: lightgrey;
+    border-radius: 4px;
+    border: 1px solid;
+    padding: 0 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    height: 36px;
+    min-width: 54px;
+    cursor: pointer;
+    font-size: 14px;
+    user-select: auto;
+
+}
+.clickmeS{
+    margin: 11px 4px;
+    margin-left: auto;
+    margin-right: 33%;
+    margin-top: 30px;
+    background-color: lightgrey;
+    border-radius: 4px;
+    border: 1px solid;
+    padding: 0 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    height: 36px;
+    min-width: 54px;
+    cursor: pointer;
+    font-size: 14px;
+    user-select: auto;
+}
+/*Inline elements VS vlock elements|"Display block stacks on top"*/
+
+
+

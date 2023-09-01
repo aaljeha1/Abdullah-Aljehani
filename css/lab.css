@@ -1,0 +1,80 @@
+body{
+    margin: auto;
+    background-image: url('https://get.wallhere.com/photo/1920x1080-px-astronomy-colorful-colors-cosmos-galaxies-galaxy-nature-planet-planets-sky-space-star-stars-universe-1732769.jpg');
+}
+.red {
+    background-color: #c71226;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+
+}
+.blue{
+    background-color:blue;
+    height: 200px; 
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+}
+.yellow{
+    background-color: green;
+    height: 200px;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+.information{
+    margin: initial;
+    font-size: larger;
+    font-weight: 100;
+    font-style:initial;
+    text-shadow: black;
+    color: black;
+    background: lightgray;
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid darkblue;
+    border-radius: 100px;
+    border-width: 9px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.nav-menue{
+    display: flex;
+    justify-content: space-around;
+}
+.follow {
+    width: 200px;
+    
+    font-weight: bold;
+    padding: 15px white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: white;
+    color: black;
+    
+    border: white;
+    border-radius: 20px;
+    
+    border: 10px solid #cfd9de;
+}
+.item{
+    text-align: center;
+    border: 1px solid black;
+    padding:10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 14px;
+
+}
